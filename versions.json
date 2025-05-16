@@ -23,10 +23,14 @@
         {
             "version" : "2.0.0",
             "path" : "test_module_6/2.0.0"
+        },
+        {
+            "version" : "2.0.1",
+            "path" : "test_module_6/2.0.1"
         }
     ],
-    "latest" : "2.0.0",
-    "latest_path" : "test_module_6/2.0.0",
+    "latest" : "2.0.1",
+    "latest_path" : "test_module_6/2.0.1",
     "requires" :{
     }
 }
